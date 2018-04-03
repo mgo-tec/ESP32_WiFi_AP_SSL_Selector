@@ -26,4 +26,4 @@ Modify SPIFFS_test of sample sketch ( Arduino core for the ESP32 ).
   
 # My Blog: 
 Usage is Japanese, please visit my blog.  
-https://www.mgo-tec.com
+https://www.mgo-tec.com/blog-entry-ssl-wifi-ap-selector-arduino-esp32.html
